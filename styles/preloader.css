@@ -6,6 +6,10 @@
   align-items: center;
   background: #545050;
 }
+.block-with-preloader {
+  position: relative;
+  min-height: 200px; 
+}
 
 .preloader-chasing-squares {
   width: 50px;
